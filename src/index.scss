@@ -6,9 +6,29 @@ img {
   user-select: none;
 }
 
+html {}
+
 * {
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  margin: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 16px;
+  column-gap: 16px;
+  margin-block: 64px;
+
+}
+
+.group_wrapper {
+  display: flex;
+  background: #ebeaec;
+  padding: 16px;
 }
