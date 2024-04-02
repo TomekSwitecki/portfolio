@@ -28,7 +28,7 @@ function App() {
 
     <Frame pageUrl={"https://tomekswitecki.github.io/klinikabm-public/"} label={"Klinika BM"} SlideIn="_up" Content={klinika}></Frame>
 
-    <Frame pageUrl={"https://www.figma.com/file/QD44PXNjrMe0lCvAQ62y7z/ABB-Energy-Efficency-Calculator?type=design&node-id=0%3A1&mode=design&t=uxIE5VUvtK04aURa-1"} label={"Viviamo - Landing Page"} SlideIn="_up" Content={viviamo}></Frame>
+    <Frame pageUrl={"https://www.figma.com/proto/PPzolARhQUvIvlIy3pJuVw/Viviamo---Ubezpieczamy-%C5%81%C3%B3d%C5%BA?page-id=0%3A1&type=design&node-id=216-2820&viewport=541%2C441%2C0.09&t=jZItzrAO3mn01INj-1&scaling=scale-down&starting-point-node-id=216%3A2820&mode=design"} label={"Viviamo - Landing Page"} SlideIn="_up" Content={viviamo}></Frame>
 
     <Frame pageUrl={"https://tomekswitecki.github.io/bello/"} label={"Bello - Design Agency"} SlideIn="_up" Content={bello}></Frame>
 
